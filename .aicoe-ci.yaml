@@ -6,5 +6,5 @@ build:
   build-stratergy: Source
   registry: quay.io
   registry-org: thoth-station
-  registry-project: s2i-tensorflow-notebook
+  registry-project: s2i-pytorch-notebook
   registry-secret: thoth-station-thoth-pusher-secret
